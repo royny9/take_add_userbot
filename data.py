@@ -1,2 +1,2 @@
-api_id = 21246924
-api_hash = 'cb479ecfbd7db524856f30fba17402ac'
+api_id = 1231231 #your api id from telegram.org
+api_hash = 'cb479easdcfwqbsdcc7czdb524aw856f30fba17sadasd402ac' #your hash id from telegram.org
